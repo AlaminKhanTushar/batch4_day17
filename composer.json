@@ -1,0 +1,14 @@
+{
+  "name": "batch4_day17/batch4_day17",
+  "type": "project",
+  "description": "A simple project",
+  "license": "",
+  "keywords": [],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
